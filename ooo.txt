@@ -1,0 +1,30 @@
+可以配合Rm老的sub使用
+
+✳️Vless 快速体验订阅地址
+
+线路一：  https://etc.mesa.ip-ddns.com/9g4C1UAZeaBQD86WfCV0
+
+线路二：https://mihu.sorry.ip-ddns.com/6oFtgiYFBA77zDwFRA4b
+
+线路三：https://oty.myto.ip-ddns.com/jJh3s4xu97d5eNPi7e0T
+
+线路四：https://miku.mikuru.ip-ddns.com/nYMU6Xk61WsKCCXF941K
+
+线路五：https://arrbu.us.kg/Y1JRPHZXm4LXM6R9MRzi
+
+线路六：https://ennyfe.us.kg/wen1u1aHn4kahKQeQN8j
+
+线路七：https://mikuyo.us.kg/xe3K5Bi0FsU2VxAb5aXi
+
+------------
+✳️Worker 部署的 Vless 可通过填入 url 路径快速获取节点订阅信息：你的订阅链接?sub=sub.kristi.majusti.us.kg
+
+⛔注意：更换sub需要确保自带 proxyip ，否则需要添加proxyip ，如：
+?sub=sub.kristi.majusti.us.kg& proxyip=xxx.xxx.xxx.xxx
+------------
+
+✳️Worker 部署的 Vless/Trojan 可以通过填入环境变量 SUB 快速获取节点订阅信息
+
+✳️ 变量 SUB = sub.kristi.majusti.us.kg
+------------
+订阅内容 base64、clash、singbox
